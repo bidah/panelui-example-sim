@@ -1,0 +1,517 @@
+{
+  "generated": "Run npm run metadata:generate --workspace=example; do not edit.",
+  "entries": [
+    {
+      "slug": "accordion",
+      "signature": "8f110665db20cd47d2a809d3a01aa9458598014d00d737599a4fc2c88a03bb5d"
+    },
+    {
+      "slug": "ai-input",
+      "signature": "90a9fac3213e284431435429347327f36ceb9f58ab5b63a0785d9595ef337c61"
+    },
+    {
+      "slug": "alert",
+      "signature": "3991043b7eae92fcc325f19b143760401584d3a0d820f1f9a9ae0d0a7abbeb99"
+    },
+    {
+      "slug": "animated-badge",
+      "signature": "c572adb02a41f0f02c2f47368809b507962cf22327bc2c9ff5ff4115589d9d7c"
+    },
+    {
+      "slug": "area-chart",
+      "signature": "7d1f4099983da8e421fd8c3dc751a8672f05fb3b834984d49598d30e02ffbc30"
+    },
+    {
+      "slug": "attachment",
+      "signature": "c963e6baad4e2bd6fda548c63672211fab5bac5d2fc3798ded091f4721951a99"
+    },
+    {
+      "slug": "avatar",
+      "signature": "d49abdeedc76a070541905ebdb272e0e37dbf20eda41ffe689d2e5855935ad6c"
+    },
+    {
+      "slug": "badge",
+      "signature": "b814e818e87474ef9a5a021060c951c5e7b6f4830e4509276f51d89d4ce8dc21"
+    },
+    {
+      "slug": "bar-chart",
+      "signature": "23ef85df45e95ca35ad51a601d45386ea077ef6a1d980191dc9448d9ad9b0ab7"
+    },
+    {
+      "slug": "bottom-sheet",
+      "signature": "ed7a42bbd45f1425843316e4f034acf7fe39bbecad1be59f507a6b3809a89f14"
+    },
+    {
+      "slug": "breadcrumb",
+      "signature": "2e76c3772f46377342b1dca01677a5295a89f7ca0002c7a6b28212ed2814e4fa"
+    },
+    {
+      "slug": "bubble-chart",
+      "signature": "f7f7a7c681b171514e60bdff87a0cf889931ef80b44c3db8db5601f1261fbf98"
+    },
+    {
+      "slug": "button",
+      "signature": "71c8343b677d601c8d0a6c2ba9ad7eb34f7982866a2468bcd9f27437ece2ab34"
+    },
+    {
+      "slug": "button-group",
+      "signature": "1986dac2715f3393d06f01b18e512e1c8165fe19a491ea62cf211ad8045dd9c4"
+    },
+    {
+      "slug": "calendar",
+      "signature": "961255c0c281e131f0be7ab5fb0754180b4c3ce41802a0351deb20f059f11c03"
+    },
+    {
+      "slug": "candlestick-chart",
+      "signature": "017552de65a54bb3daeca56f517b84943f0fda5400acafff7198bdaddbb9174c"
+    },
+    {
+      "slug": "card",
+      "signature": "227198f30a777ecb87f3162853fc0fa116d4e1f277aa97da8bd03b7aae754805"
+    },
+    {
+      "slug": "carousel",
+      "signature": "98c6c928ba96eb3b19929acb12188f076d01554ff6b31a1f96f456d75a47368f"
+    },
+    {
+      "slug": "checkbox",
+      "signature": "8557e213b7f4cf93e7ab518780ee7676c82e1ac713fd15abff9fa31444a8706e"
+    },
+    {
+      "slug": "chip",
+      "signature": "0dd1c8abd320c9f83a513d5aa723d79eedc85dffccf03a26430a477f3b454545"
+    },
+    {
+      "slug": "circular-text",
+      "signature": "cff8aeeaf564eb71aed69168601bdb5e5db006bcb90ea5c0bd0da26e5616e986"
+    },
+    {
+      "slug": "code-block",
+      "signature": "48976d4f5ff198702e14d13a83a47c29854b894bba85efcc6186372233e1e770"
+    },
+    {
+      "slug": "collapsible",
+      "signature": "8e6f7d3bee5e56ce6aad1d5eaef6a951e43f67b5c924717693d8df6ab0cd2f3f"
+    },
+    {
+      "slug": "color-picker",
+      "signature": "2fa6fc9af55993734e75515fa1194c37db8cdee7df28629cf12fdacfdd5d954d"
+    },
+    {
+      "slug": "combobox",
+      "signature": "48e50a43ddf32e72a3f8e0b854e61390fe290685ecd46440d04546d3f7ffcff0"
+    },
+    {
+      "slug": "context-menu",
+      "signature": "215665dade171895c642a4a7fe3763d23c80d6d46b0eac40944513e820cbbef8"
+    },
+    {
+      "slug": "date-picker",
+      "signature": "6b44598a65ab00b4b180a128c83cc1a560423274089b2a057c7d473d896d4930"
+    },
+    {
+      "slug": "date-time-picker",
+      "signature": "7bf2f7b424485e2aa827cb6b02b5149f34cfa983d6856522078f10f6800c374c"
+    },
+    {
+      "slug": "dialog",
+      "signature": "73cd25b6530cd94bda5266774bfb44ba21ac9ce8b30675adc966524501bcd266"
+    },
+    {
+      "slug": "direction",
+      "signature": "2a56050724a6a5a2095e67a9bd8faa5310be399183605266635295b0de0e0ad8"
+    },
+    {
+      "slug": "drawer",
+      "signature": "51f2a4aa677433b8c332a3e6db32f0a34cb127d6e7c3e767324b2c602a5bc894"
+    },
+    {
+      "slug": "empty-state",
+      "signature": "e8df761e1a87220cf8059b03435192219af30bfcb21e6c375ec14479dee73704"
+    },
+    {
+      "slug": "fab",
+      "signature": "fd5257f322dc331c8e5324c40434e4c3945ba0be0fd253493de21443cdccb6e8"
+    },
+    {
+      "slug": "feedback",
+      "signature": "9cf48f8d21ae053883b43c34af4a6dac18059dcda9f9ee8262a26ae44e66842e"
+    },
+    {
+      "slug": "field",
+      "signature": "da9982646b1e29ce5a5cd59e84a0d1544aa076646edaaad80627ece74ab01a2e"
+    },
+    {
+      "slug": "flip-card",
+      "signature": "38cddce2acf4d418ffc7cfd6794c2ba77ed10e2fdce8a4bc7b11e0754c96eb1f"
+    },
+    {
+      "slug": "flow",
+      "signature": "243d8523dfa66c7453509d1462e1a4d8751782c02e8330a669e3e14e4ccf1b58"
+    },
+    {
+      "slug": "form",
+      "signature": "f9a8cd0c9dd9fd33b892e7cb3e0a87299cdf5a6ab6a415bfbd43fed2e6e3ee78"
+    },
+    {
+      "slug": "frame",
+      "signature": "9e614c9cb6b2ad749d22cd7f06f6c4778033eb603480ce696ffc09784fac94ea"
+    },
+    {
+      "slug": "funnel-chart",
+      "signature": "9d25117d6ddd16451596db80f95bdf6bb84cbcff1a695fc85a12407c9a8d0f31"
+    },
+    {
+      "slug": "grid-item",
+      "signature": "b02fd74c55ab6fcd62dda3c8f9e02faabeaf9bd18ebc726f611ca28fecb44d7c"
+    },
+    {
+      "slug": "heatmap-chart",
+      "signature": "967e41dd16f41545936e866256a6ffec592ac63966049981452e310619ae9061"
+    },
+    {
+      "slug": "hex-chart",
+      "signature": "594837d80a471f8ce55b19c025eda064fd600bc745a7c72f202df507e1a9b261"
+    },
+    {
+      "slug": "image-generation",
+      "signature": "10e78297649dc2be67b6c1557adae7768612e32891edef28bc36a3026fe6cc95"
+    },
+    {
+      "slug": "input",
+      "signature": "bb262c1f5e676e5e91c933168b7df986d20b7ba85bd867bfc6935a64d1049b5f"
+    },
+    {
+      "slug": "input-group",
+      "signature": "d822bb07f39a8e236d73256cacfdf99a5bd129e1e6a4ff0d7bc51982c570104b"
+    },
+    {
+      "slug": "item",
+      "signature": "96bd8dc055d824ad1d84559f682d59dac51daf69ab0ad2379ee138b299e74521"
+    },
+    {
+      "slug": "kpi",
+      "signature": "c59b411144f6c488f1dca4b44c55828229263fee567bf876568b790a97f8a1c9"
+    },
+    {
+      "slug": "label",
+      "signature": "9abf07c48e742030c8cd3c1365fa1e6e24fde80e0b2bca409f82006888c04e00"
+    },
+    {
+      "slug": "line-chart",
+      "signature": "06eb9fbfdefa298c1b153e6e1d6c3cbea07693ec0c77f71b536e99852e013eb4"
+    },
+    {
+      "slug": "live-line-chart",
+      "signature": "65c5af38c717905cd4fb47ab03339ee8d152734aca1919c9b038e5af693e9b64"
+    },
+    {
+      "slug": "loader",
+      "signature": "3bfe8f04ef875e5417d1d8f5f5452ea238c4b85eddd4af509306e304de5305e3"
+    },
+    {
+      "slug": "map",
+      "signature": "9c658471ff517e98e3231ded8a5f83d7c62b8b0069b069c2b2b9145b54089d34"
+    },
+    {
+      "slug": "markdown-editor",
+      "signature": "7a2c4a4c5733b09660a6d60163cafab1350a008ea8ceadb774e4e6c71a6cf256"
+    },
+    {
+      "slug": "marker",
+      "signature": "d27ae0ca454e5fcbfbdeb1ced7055a0255db4c4948dab3a0c7dea84a9ade64c5"
+    },
+    {
+      "slug": "marquee",
+      "signature": "26f039be4194c627c8dfcdf41f6efc0ba7d92485d8a9be4d14eabe9826e7c38e"
+    },
+    {
+      "slug": "menu",
+      "signature": "d2ba2567c8bfa4d6b6e957e83b0f986c43b13741c83298c672f1391362e87d97"
+    },
+    {
+      "slug": "message",
+      "signature": "5a35be04afd7ac886ebaa6db770bc80d4a7f7b7d82cf59717557785d4e146053"
+    },
+    {
+      "slug": "message-scroller",
+      "signature": "801ac34487ab8d52b5442c6397fd0eeabee00f280d614cb58f3b79ffe23ebab7"
+    },
+    {
+      "slug": "meter",
+      "signature": "c3a20f76a18ee3c715d4c5fbc53285231c6e4f30cbf3f06276da853829bc574c"
+    },
+    {
+      "slug": "number-input",
+      "signature": "8bd4946c684252c8441f26b5449ea571850bb3d6c569e0c7710b7c9082711892"
+    },
+    {
+      "slug": "otp-input",
+      "signature": "58b7cc72540e614b710f256baae8556464062a44f37ea9c65e7a2f0206b327db"
+    },
+    {
+      "slug": "page-header",
+      "signature": "e262dee0267b6786820b22c9f28f44e755899e7b9e856d566d773a3b35503a3a"
+    },
+    {
+      "slug": "pagination",
+      "signature": "0ae7736b7b65ee8ac30181dcd8fc388111fec4067ce51fe3df0f4b4a0ce3602f"
+    },
+    {
+      "slug": "panelside",
+      "signature": "c35244656e010895d384ca43d7ff916b95adcd0152d916adf2d562db0be4bce7"
+    },
+    {
+      "slug": "pie-chart",
+      "signature": "61c1d8e9ddc6672cd8ee737ad1c50978b923eb3332305f55130196eeaf058658"
+    },
+    {
+      "slug": "plan",
+      "signature": "95adaf06931fd252f1015bbbbaab74b9dc30d9cf4c1d5d38b2462064fb52b09e"
+    },
+    {
+      "slug": "planner",
+      "signature": "d4067666f63077a4dcdecb60bb9fc97ba293cd8121d21c47abf19feb5ed6f0e4"
+    },
+    {
+      "slug": "plot",
+      "signature": "30eaa04b4560d028a016a964236684cb2710ed3f5f449490920bf4a081c75753"
+    },
+    {
+      "slug": "polar-area-chart",
+      "signature": "b16a9d0cb749f176963f4c79acf943e5e0d1c085e800de15915e7a8c4511ecd2"
+    },
+    {
+      "slug": "popover",
+      "signature": "bd3f908c53dc1a14ae8f04481414dd10e66a0890b6c7915b0190ff3e729100b7"
+    },
+    {
+      "slug": "post",
+      "signature": "9065531e44e16bf46d8671007c7bf6bdc134f9a063eb9d4b2f54251548c6918a"
+    },
+    {
+      "slug": "progress",
+      "signature": "08612dbada2b6fcaa2186b66fc95a58e58a8cd1c1c53810ddca3eb21e63a439c"
+    },
+    {
+      "slug": "progress-button",
+      "signature": "0fc69a878a5acdf60db03e5035a81c97a16d401bdc5e3fe6fe6e9876e6cb66ac"
+    },
+    {
+      "slug": "pyramid-chart",
+      "signature": "79471389841029d6f5610294de506b0ef78a444507588bd8bd206b993348806e"
+    },
+    {
+      "slug": "qr-code",
+      "signature": "4091abe544947de3308378e6208fb682ad5a58d2f00f864c16f276b2e0b59bbb"
+    },
+    {
+      "slug": "questionnaire",
+      "signature": "7d4a0f542016a703c7d8578f36c8e2ef4fc9d9b012a7b165785bcefec8c1b10a"
+    },
+    {
+      "slug": "radar-chart",
+      "signature": "13da59175864a1556ab5eda56d67424804e460e58a8c680010b72484476fd17c"
+    },
+    {
+      "slug": "radio-group",
+      "signature": "4a77ae3a1032e5a2ba52fe76d72ec4acc5dcb480043a6fe2517fd1a6c97b6c0e"
+    },
+    {
+      "slug": "rating",
+      "signature": "2def9bc640d79e41809c592bad8bf9a298ba32875f2cbe8afd40733d8c93a788"
+    },
+    {
+      "slug": "reasoning",
+      "signature": "8717731ac4020080c64a5149db76ff6a7de7572601d081b67e621679eaeba987"
+    },
+    {
+      "slug": "response",
+      "signature": "8126fbcf2206aada09504d706d19d9d93ecc07cae5a6eaf9e4bcbbeaf4a87882"
+    },
+    {
+      "slug": "ring-chart",
+      "signature": "5a1f6087d05807a2005b94e106057e0cdd2331fbd515d3dc9b2ebf5e03a7f4b6"
+    },
+    {
+      "slug": "scatter-chart",
+      "signature": "6f0e3ba37701165ffe2bb0eeb621f08a52a83e1a505b50aeb9ac8796e8b79701"
+    },
+    {
+      "slug": "scroll-blur",
+      "signature": "99d0fc7e06dd4df9686e934957cb19f7d8ccba5d3b48f2836b82992d2ebb597a"
+    },
+    {
+      "slug": "scroll-canvas",
+      "signature": "765795301aa8baaafd5f894007cc8c2e372828010bfd5304ceca649a2adc2555"
+    },
+    {
+      "slug": "scroll-fade",
+      "signature": "38e17bc3525ef767472481f958c79c46610730fc20868bb967504df4d1add1f4"
+    },
+    {
+      "slug": "scroll-header",
+      "signature": "20552f713c9c30c06d47c08f6738593cdcfaba9e9648e80acf2496dc3c1c20c7"
+    },
+    {
+      "slug": "scroll-text",
+      "signature": "1297bc0a2c5ef390397681aaf1fc1633cbf6f50d47371c4c640685bb30c4e741"
+    },
+    {
+      "slug": "search-bar",
+      "signature": "497c446396f869e79058c4aef84736d7f9c7e346cebfc4c79116ae5d7064534c"
+    },
+    {
+      "slug": "section-progress",
+      "signature": "0e9b9a001c710b518a4638af0fd2adb8b75579cb6309347a77cd809a695b408d"
+    },
+    {
+      "slug": "section-rail",
+      "signature": "31ceb8456a0aac90626b0a410a74034ad697fe551b2ea9ba55b1ad05cb7c5f34"
+    },
+    {
+      "slug": "select",
+      "signature": "e8239f303aaeca476fd83a0ab7c800551b0196664c6f6f87caeafb61eaa43cfc"
+    },
+    {
+      "slug": "selection-mode",
+      "signature": "dfb481f059be300a564d79812a4b41b2f9e6cc1c48edd0fa7c501b632fee52c6"
+    },
+    {
+      "slug": "separator",
+      "signature": "69c7e603355226cce2089d2011b28a8d7768e7b64bb1bfe698427c5516d8dfe5"
+    },
+    {
+      "slug": "shimmer",
+      "signature": "8839cf71a514f9ea03f878c1d1599eac161d1a718e386b9699cbf10cf0c63ef3"
+    },
+    {
+      "slug": "signature",
+      "signature": "9de69dc607b14358e717ac645544080583d70b3564ecaacc6d6c03b8176587b1"
+    },
+    {
+      "slug": "skeleton",
+      "signature": "32364fb68c5588aa87f11b915e2e133a33ec4d1ef052dc1ef8257fc558ab82fd"
+    },
+    {
+      "slug": "slide-button",
+      "signature": "3889240876bfbf39d7f1f02950e3bfd31fa14f41d726b87cbe175210b6213b8a"
+    },
+    {
+      "slug": "slider",
+      "signature": "04dc021cbfef50f9f8c55721326f6497f14a833cd3dcdc870ade1fa439f427d2"
+    },
+    {
+      "slug": "sortable",
+      "signature": "e69d596caebedae4ecf75ff7b3e9bc1b7ddf2d11bd3e6886b6829a0101d52c66"
+    },
+    {
+      "slug": "soundwave",
+      "signature": "f37db43a348ebf89bd1d54f4c83cfe227f87169bd27a38c100448e0a1f4fbd1c"
+    },
+    {
+      "slug": "sources",
+      "signature": "f243f6201fcf473e0dbeb66252c7012e485a76cf43898d1298a7c82bba278ba2"
+    },
+    {
+      "slug": "spinner",
+      "signature": "311cea7bae30ad3e257ca2d44c26ec788810bc6651f828b713ab7855d140e1b8"
+    },
+    {
+      "slug": "splitter",
+      "signature": "e2d75d6a56798289cdc035a49ffa8f212ac77327a352d724a3ebcba3110aab04"
+    },
+    {
+      "slug": "split-view",
+      "signature": "adb0f7502727dcf345655ee2cb8ad3ff827e58907f4b2ae2690af82603493aa6"
+    },
+    {
+      "slug": "steps",
+      "signature": "6dc58a137914d4b7bb13738c361e1a7f270eff6c47be05520823eed7e2bf2f46"
+    },
+    {
+      "slug": "surface",
+      "signature": "1a77e5ebd610d2395dc20054dc228df96f619f5b319131fa664a62abd534aa49"
+    },
+    {
+      "slug": "swipe",
+      "signature": "7cbeea56bc9ff088378a9c86accf7d83d936bc72103a24a6985c631ace911771"
+    },
+    {
+      "slug": "switch",
+      "signature": "344dc0bb21dc2da35dc13ce4e23e678849b807a72f4a62367b8549ae7bb886cd"
+    },
+    {
+      "slug": "table",
+      "signature": "a9ffc18be1fd62801527f633cb3b869dfc58e7d4f553c8881796ecf1d7710f8f"
+    },
+    {
+      "slug": "tabs",
+      "signature": "5c06737786b4bd7be288a8726b4bf10fa6ce129e69bd9ffafd972cbc8c5a8c14"
+    },
+    {
+      "slug": "tag-input",
+      "signature": "e218a499fa7bdb02433e9be3c80fc7c6ce315d4313c2f2b224f47a04070f5b1c"
+    },
+    {
+      "slug": "task",
+      "signature": "1a8c26b1c6ef401c3e0d96a066147acd56d03975d2d99ff45b87411f011b423e"
+    },
+    {
+      "slug": "text-animation",
+      "signature": "934cf50a75d3cc92818672d772eddcc79e02b00ff2698c49641b80211fbe5d16"
+    },
+    {
+      "slug": "textarea",
+      "signature": "7c2427d0c94a4c9f4b5243d80e4a2b2a9e2e6f153d755f80bd514a8ecf86de28"
+    },
+    {
+      "slug": "theme-selector",
+      "signature": "79dbd66aad0e673f35996500d379aa37b5292471ebb83ae038f1eb670e006f08"
+    },
+    {
+      "slug": "thinking-orb",
+      "signature": "682d078016c1cbf727566342f8a583434f51c58d66ea7287ccde5b4f192a9d28"
+    },
+    {
+      "slug": "timeline",
+      "signature": "0f61ad9b60638183acd1fd10636b7f0d256f118040e4386e1939e8a826214e6a"
+    },
+    {
+      "slug": "time-picker",
+      "signature": "fdfe0aec2c9517ecd2627874a64e4e401b1323e5f929a6dbd6ce8e7e77a4f927"
+    },
+    {
+      "slug": "toast",
+      "signature": "96ad74ef8a645f4d0a37c90f86d34b735d5f6fbbc6737cdc69fd3ca57017b0b6"
+    },
+    {
+      "slug": "toggle-button",
+      "signature": "bcd68d548edcb8fe0541137c59f754baacc392e134609c19dd397b84f28d3036"
+    },
+    {
+      "slug": "tooltip",
+      "signature": "0cc83f1e2d466adb6635f8f7ec9e950c2d15d8a1e61567068679046c7f59cee9"
+    },
+    {
+      "slug": "tour",
+      "signature": "b6b8ccaf2ad90ed2b149e0c2d326a4cda7b97710922743a642352daed51c137e"
+    },
+    {
+      "slug": "tree",
+      "signature": "ec863855380ba968646b5b71595e8232ee7f6de51926ea6b4625cfb6010ebb57"
+    },
+    {
+      "slug": "treemap-chart",
+      "signature": "fba4764265620094d268c5251d9c89564f68c2b82b4cce78cec955c037a4f7bf"
+    },
+    {
+      "slug": "typography",
+      "signature": "20eec53fda1270cbccffd2412f2fd507965b49aeaafb194f89ce0574730a960a"
+    },
+    {
+      "slug": "waterfall-chart",
+      "signature": "3040878d53b45360026f2fc9315910975dd36af6a2e0ed70103da04d35b62288"
+    }
+  ]
+}
