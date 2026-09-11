@@ -347,7 +347,7 @@ jobs:
           } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Build app
-        timeout-minutes: 60
+        timeout-minutes: 180
         if: inputs.mode == 'build' && steps.appcache.outputs.cache-hit != 'true'
         env:
           UDID: ${{ steps.sim.outputs.udid }}
